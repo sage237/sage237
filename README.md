@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sage237
-- 👀 I’m interested in development(Android,Flutter,php etc.),photgrapy
+- 👀 I’m interested in development(Android,Flutter,php etc.),photograpy
 - 🌱 I’m currently learning flutter and php.
 - 📫 Insta: @r.i.s.h.i_pixels 
 
